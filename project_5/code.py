@@ -38,9 +38,10 @@ while True:
             print('\n--- Display All Students ---\n')
 
             for st in Students:
-                for key, value in st.items():
-                    print(f'{key}: {value}', end=' | ' )
-                print('')
+                print(" | ".join([f"{key}: {value}" for key, value in st.items()]))
+                # for key, value in st.items():
+                #     print(f'{key}: {value}', end=' | ' )
+                # print('')
 
         case 3:
 
