@@ -1,0 +1,11 @@
+Bar chart :- it is for categorical data and showing comparision
+
+Line chart
+
+Scatter chart :- it is used to show relationshoip between 2 numerical value
+
+Pie chart
+
+Donut chart
+
+Histogram 
